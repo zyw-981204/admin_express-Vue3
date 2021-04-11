@@ -1,0 +1,25 @@
+{
+  "name": "adminvue3--front-end",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "element-plus": "^1.0.2-beta.35",
+    "js-cookie": "^2.2.1",
+    "sass-loader": "^11.0.1",
+    "socket.io": "^4.0.1",
+    "vue": "^3.0.5",
+    "vue-router": "4",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.32.8",
+    "vite": "^2.1.0"
+  }
+}
